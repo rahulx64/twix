@@ -1,4 +1,4 @@
-# Twix
+# TWIX
 
 Some Features:
 
